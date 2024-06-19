@@ -1,3 +1,5 @@
-# Python Ransomware 1.0
+# Python Ransomware
 
-<p> Ferramenta EM DESENVOLVIMENTO com propósitos unicamente acadêmicos</p>
+Simple Python Ransomware with Crypter and Decrypter scripts
+
+Not ready for usage yet.
